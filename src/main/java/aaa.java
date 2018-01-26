@@ -5,4 +5,8 @@ public class aaa {
     public String toString() {
         return super.toString();
     }
+
+    public static void aVoid() {
+
+    }
 }
